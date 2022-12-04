@@ -1,5 +1,5 @@
 #img-div{
-    max-width:500px;
+    width:500px;
     height: 300px;
     text-align: center;
     background-color: aqua;
@@ -7,10 +7,12 @@
     font-size: 1.6rem;
 }
 #image{
-max-width: 500px;
-height: 300px;
-align-content: center;
-margin: 0 auto;
+padding-top: 10px;
+height: auto;
+max-width: 100%;
+display: block;
+margin-left: auto;
+margin-right: auto;
 
 }
 h1{
@@ -19,4 +21,9 @@ h1{
     text-align: justify;
     margin: 0 auto;
     display: block;
+}
+#facts{
+    background-color: burlywood;
+    color: aquamarine;
+    text-align: left;
 }
