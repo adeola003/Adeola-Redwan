@@ -1,0 +1,22 @@
+#img-div{
+    max-width:500px;
+    height: 300px;
+    text-align: center;
+    background-color: aqua;
+    margin: 0;
+    font-size: 1.6rem;
+}
+#image{
+max-width: 500px;
+height: 300px;
+align-content: center;
+margin: 0 auto;
+
+}
+h1{
+    color: rgb(214, 27, 27);
+    background-color: beige;
+    text-align: justify;
+    margin: 0 auto;
+    display: block;
+}
